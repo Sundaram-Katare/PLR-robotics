@@ -49,7 +49,7 @@ export default function WhyChooseUsSection() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            <span className="bg-gradient-to-r from-white to-cyan bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r from-white to-cyan-200 bg-clip-text text-transparent">
               Why Choose Us
             </span>
           </h2>
