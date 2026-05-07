@@ -5,6 +5,9 @@ This project focuses on creating a premium visual experience using modern fronte
 
 ---
 
+<img width="1895" height="908" alt="image" src="https://github.com/user-attachments/assets/ed83d9c1-1505-4c40-ac02-c11b042e06d5" />
+
+
 # 🚀 Project Overview
 The main objective was to create a visually engaging and professional UI that reflects:
 
