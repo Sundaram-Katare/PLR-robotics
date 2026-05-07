@@ -9,7 +9,7 @@ export default function Robot2(props) {
   return (
     <primitive
       object={scene}
-      scale={1}
+      scale={0.8}
       position={[0, -1, 0]}
       rotation={[0, Math.PI / 4, 0]}
       {...props}

@@ -5,7 +5,7 @@ import Robot2 from "./Robot2";
 export default function ManRobo() {
     return (
         <>
-            <div className="bg-transparent relative h-full">
+            <div className="bg-transparent flex items-center relative h-screen">
                 <Canvas camera={{ position: [0, 1, 5] }}>
 
                     <ambientLight intensity={1} />
